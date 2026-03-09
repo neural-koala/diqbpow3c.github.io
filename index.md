@@ -2,11 +2,11 @@
 title: Home
 layout: home
 nav_order: 1
-description: "Simple blogs of diqbpow3c."
+description: "Blogs of neural-koala."
 permalink: /
 ---
 
-Simple personal blogs of diqbpow3c.
+Personal blogs of neural-koala.
 
 {% for doc in site.docs %}
 ## [{{ doc.title }}]({{ doc.url | relative_url }})

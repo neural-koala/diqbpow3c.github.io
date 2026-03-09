@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://diqbpow3c.github.io/sitemap.xml
+Sitemap: https://neural-koala.github.io/sitemap.xml

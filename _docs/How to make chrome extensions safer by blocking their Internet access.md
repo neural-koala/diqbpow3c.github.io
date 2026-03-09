@@ -143,7 +143,7 @@ Then, you need to enable the developer mode on the extensions page of Chrome.
 
 Manually modifying the `manifest.json` files for all extensions seems a daunting task. Besides, you also need to manually download the new versions of extensions, extract them, and modify the `manifest.json` again to keep the extensions updated.
 
-Therefore, I've written some simple Python scripts for this task <https://github.com/diqbpow3c/ChromeExtensionHardener>.
+Therefore, I've written some simple Python scripts for this task <https://github.com/neural-koala/ChromeExtensionHardener>.
 
 
 # How does it work
